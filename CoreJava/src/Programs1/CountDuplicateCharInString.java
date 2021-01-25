@@ -30,7 +30,7 @@ public class CountDuplicateCharInString {
 			{
 				System.out.println(single +" "+count);
 			}
-		}
+		}//anil
 
 	}
 
